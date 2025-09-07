@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">网易云音乐广告跳过助手</string>
+    <string name="accessibility_service_label">网易云音乐广告跳过服务</string>
+    <string name="accessibility_service_description">自动跳过网易云音乐开屏广告。此服务仅用于检测屏幕上的\"跳过\"按钮并自动点击，不会收集任何个人信息。</string>
+    <string name="btn_enable_service">开启无障碍服务</string>
+    <string name="service_status_enabled">服务状态：已启用 ✓</string>
+    <string name="service_status_disabled">服务状态：未启用</string>
+    <string name="app_description">网易云音乐广告跳过助手\n专为网易云音乐开屏广告设计\n自动跳过开屏广告，提升使用体验</string>
+    <string name="instructions_title">使用说明</string>
+    <string name="instructions_content">1. 点击上方按钮开启无障碍服务\n2. 在系统设置中找到本应用并开启\n3. 启动网易云音乐即可自动跳过开屏广告</string>
+    <string name="privacy_note">本应用仅处理网易云音乐开屏广告，不会收集任何用户数据</string>
+</resources>
